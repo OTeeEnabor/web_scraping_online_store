@@ -1,0 +1,12 @@
+This is the woolworths database schema. 
+database attributes - columns
+name - string
+barcode - string 
+price - decimal
+weight - decimal
+category - string
+date - date 
+
+steps
+1 - create table in sql
+2 - insert each csv file into the table using python o	ORM
