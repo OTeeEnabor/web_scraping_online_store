@@ -121,13 +121,13 @@ url_list = [
     'https://www.woolworths.co.za/cat/Food/Bread-Bakery-Desserts/_/N-1bm2new',
     'https://www.woolworths.co.za/cat/Food/Ready-Meals/_/N-s2csbp',
     'https://www.woolworths.co.za/cat/Food/Milk-Dairy-Eggs/_/N-1sqo44p',
-    'https://www.woolworths.co.za/cat/Food/Deli-Entertaining/_/N-13b8g51'
+    'https://www.woolworths.co.za/cat/Food/Deli-Entertaining/_/N-13b8g51',
     'https://www.woolworths.co.za/cat/Food/Beverages-Juices/_/N-mnxddc',
     'https://www.woolworths.co.za/cat/Food/Pantry/_/N-1lw4dzx',
     'https://www.woolworths.co.za/cat/Food/Toiletries-Health/_/N-1q1wl1r',
     'https://www.woolworths.co.za/cat/Food/Household/_/N-vvikef',
     'https://www.woolworths.co.za/cat/Food/Frozen-Food/_/N-j8pkwq',
-    'https://www.woolworths.co.za/cat/Food/Cleaning/_/N-o1v4pe',
+    'https://www.woolworths.co.za/cat/Food/Cleaning/_/N-o1v4pe'
 
 ]
 category_list = [
@@ -136,7 +136,7 @@ category_list = [
     'Bread_Bakery_Deserts',
     'Ready_meals',
     'Milk_Dairy_Eggs',
-    'Deli_Entertaining'
+    'Deli_Entertaining',
     'Beverages_Juices',
     'Pantry',
     'Toiletries_health',
